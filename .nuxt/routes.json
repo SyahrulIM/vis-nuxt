@@ -1,0 +1,26 @@
+[
+  {
+    "name": "jenispotensidesa",
+    "path": "/jenispotensidesa",
+    "component": "C:\\\\xampp\\\\htdocs\\\\vis-nuxt\\\\pages\\\\jenispotensidesa\\\\index.vue",
+    "chunkName": "pages/jenispotensidesa/index"
+  },
+  {
+    "name": "jenispotensidesa-create",
+    "path": "/jenispotensidesa/create",
+    "component": "C:\\\\xampp\\\\htdocs\\\\vis-nuxt\\\\pages\\\\jenispotensidesa\\\\create\\\\index.vue",
+    "chunkName": "pages/jenispotensidesa/create/index"
+  },
+  {
+    "name": "jenispotensidesa-edit",
+    "path": "/jenispotensidesa/edit",
+    "component": "C:\\\\xampp\\\\htdocs\\\\vis-nuxt\\\\pages\\\\jenispotensidesa\\\\edit\\\\index.vue",
+    "chunkName": "pages/jenispotensidesa/edit/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\vis-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
